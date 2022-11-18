@@ -25,10 +25,11 @@ The following table shows some previous works associated with the topic:<br>
 <br>
 
 * MSCOCO Dataset<br>
-![img1](/res_MSCOCO.jpg)
+![img2](/res_MSCOCO.jpg)
+<br>
 * Flickr8 Dataset
 <br>
-![img1](/res_Flickr8.jpg)
+![img3](/res_Flickr8.jpg)
 
 ## Concluding Remarks:<br>
 Our project experimentation was targeted to produce captions for images using basic image captioning and motion estimation using a pre-trained model Im2Flow. Image captioning is important as it helps in bringing out meaning to that images when the scenario is not known. These captions generated using NLP techniques helps in giving a better description of the image to visually impaired people. The motion estimation produces an image which determines direction of motion. This motion estimation helps in producing the captions more accurately. This combination of basic image features and motion estimation produces an accurate model for producing captions. Object detection is implemented into our model toemploy motion characteristics, as stated in this study. Object detection, on the other hand, can provide bounding boxes that encompass all picture areas, as discussed in the preceding discussion.Our future research will focus on how to better incorporate motion aspects.
